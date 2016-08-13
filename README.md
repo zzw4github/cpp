@@ -1,5 +1,6 @@
 # cpp
-[sublime配置c++](http://www.yalewoo.com/sublime_text_3_gcc.html)
+[sublime配置c++](http://www.yalewoo.com/sublime_text_3_gcc.html)  
+```
 sublime cpp
 {
 	"encoding": "utf-8",
@@ -16,3 +17,4 @@ sublime cpp
 		}
 	]
 }
+```
