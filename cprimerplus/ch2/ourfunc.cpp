@@ -1,6 +1,8 @@
 // ourfunc.cpp -- defining your own function
 #include <iostream>
+
 void simon(int); // function prototype for simon()
+
 int main()
 {
 using namespace std;
@@ -12,8 +14,10 @@ simon(count); // call it again
 cout << "Done!" << endl;
 return 0;
 }
+
+// void functions don’t need return statements
 void simon(int n) // define the simon() function
 {
 using namespace std;
 cout << "Simon says touch your toes " << n << " times." << endl;
-} // void functions don’t need return statements
+} 
